@@ -1,0 +1,5 @@
+C:\Users\WIN 10\Desktop\QUIN\pttktt\Buoi1\QuickSort\obj\Debug\net8.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Desktop\QUIN\pttktt\Buoi1\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\pttktt\Buoi1\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfo.cs
+C:\Users\WIN 10\Desktop\QUIN\pttktt\Buoi1\QuickSort\obj\Debug\net8.0\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\pttktt\Buoi1\QuickSort\obj\Debug\net8.0\QuickSort.sourcelink.json

@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDADE667-6D91-434A-9A0B-6F9BF7C829D8}|MergeSort\\MergeSort.csproj|C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\mergesort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDADE667-6D91-434A-9A0B-6F9BF7C829D8}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B2F9B34-A8E8-482B-9CF7-B8A52AC8B758}|SelectionSort\\SelectionSort.csproj|c:\\users\\win 10\\desktop\\quin\\pttktt\\buoi1\\selectionsort\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B2F9B34-A8E8-482B-9CF7-B8A52AC8B758}|SelectionSort\\SelectionSort.csproj|solutionrelative:selectionsort\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0420E116-4F4E-417D-9492-843603CB1B0F}|NhanHaiSoNguyenLon\\NhanHaiSoNguyenLon.csproj|C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\nhanhaisonguyenlon\\nhan2songuyenlon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0420E116-4F4E-417D-9492-843603CB1B0F}|NhanHaiSoNguyenLon\\NhanHaiSoNguyenLon.csproj|solutionrelative:nhanhaisonguyenlon\\nhan2songuyenlon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222C7C20-518E-467B-B93E-910F5682CE5C}|TinhTong\\TinhTong.csproj|C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\tinhtong\\tinhtongmang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222C7C20-518E-467B-B93E-910F5682CE5C}|TinhTong\\TinhTong.csproj|solutionrelative:tinhtong\\tinhtongmang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312938B9-B4C0-45E1-895B-798D576D1B96}|TimKiemNhiPhan\\TimKiemNhiPhan.csproj|C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\timkiemnhiphan\\timkiemnhiphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312938B9-B4C0-45E1-895B-798D576D1B96}|TimKiemNhiPhan\\TimKiemNhiPhan.csproj|solutionrelative:timkiemnhiphan\\timkiemnhiphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A01717-2FB5-41BF-9E00-89B4476039ED}|QuickSort\\QuickSort.csproj|C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\quicksort\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A01717-2FB5-41BF-9E00-89B4476039ED}|QuickSort\\QuickSort.csproj|solutionrelative:quicksort\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectionSort.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\SelectionSort\\SelectionSort.cs",
+              "RelativeDocumentMoniker": "SelectionSort\\SelectionSort.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\SelectionSort\\SelectionSort.cs",
+              "RelativeToolTip": "SelectionSort\\SelectionSort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:13:03.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nhan2SoNguyenLon.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\NhanHaiSoNguyenLon\\Nhan2SoNguyenLon.cs",
+              "RelativeDocumentMoniker": "NhanHaiSoNguyenLon\\Nhan2SoNguyenLon.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\NhanHaiSoNguyenLon\\Nhan2SoNguyenLon.cs",
+              "RelativeToolTip": "NhanHaiSoNguyenLon\\Nhan2SoNguyenLon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:00:31.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TinhTongMang.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\TinhTong\\TinhTongMang.cs",
+              "RelativeDocumentMoniker": "TinhTong\\TinhTongMang.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\TinhTong\\TinhTongMang.cs",
+              "RelativeToolTip": "TinhTong\\TinhTongMang.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:36:53.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimKiemNhiPhan.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\TimKiemNhiPhan\\TimKiemNhiPhan.cs",
+              "RelativeDocumentMoniker": "TimKiemNhiPhan\\TimKiemNhiPhan.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\TimKiemNhiPhan\\TimKiemNhiPhan.cs",
+              "RelativeToolTip": "TimKiemNhiPhan\\TimKiemNhiPhan.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAG8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:33:19.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\QuickSort\\QuickSort.cs",
+              "RelativeDocumentMoniker": "QuickSort\\QuickSort.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\QuickSort\\QuickSort.cs",
+              "RelativeToolTip": "QuickSort\\QuickSort.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:51:39.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\MergeSort\\MergeSort.cs",
+              "RelativeDocumentMoniker": "MergeSort\\MergeSort.cs",
+              "ToolTip": "C:\\Users\\WIN 10\\Desktop\\QUIN\\pttktt\\Buoi1\\MergeSort\\MergeSort.cs",
+              "RelativeToolTip": "MergeSort\\MergeSort.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA8wDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:48:26.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
